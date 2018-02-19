@@ -1,0 +1,16 @@
+.user_imagem
+{	
+	float: right;
+	position: relative;
+	top:20px;
+	right: 0px;
+	
+}
+
+.usuario_logado
+{	
+	position: relative;
+	top:5px;
+	left: 0px;
+	
+}
